@@ -1,2 +1,2 @@
 # hello-world
-Just first
+Just first project
